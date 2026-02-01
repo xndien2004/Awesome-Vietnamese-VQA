@@ -45,7 +45,7 @@ A curated list of datasets, papers, models, and resources for **Vietnamese Visua
 
 - **[PACLIC 2021]** *ViVQA: Vietnamese Visual Question Answering* [[Paper](https://arxiv.org/abs/2302.11752)]
   
-### Image Captioning
+### 🖼️💬 Image Captioning
 
 - **[arXiv 2024]** *KTVIC: A Vietnamese Image Captioning Dataset on the Life Domain* [[Paper](https://arxiv.org/abs/2401.08100)]
 
@@ -102,7 +102,7 @@ A curated list of datasets, papers, models, and resources for **Vietnamese Visua
 
 - **[PSIVT 2022]** *Combining Multi-vision Embedding in Contextual Attention for Vietnamese Visual Question Answering* [[Paper](https://link.springer.com/chapter/10.1007/978-3-031-26431-3_14)]
 
-### Image Captioning
+### 🖼️💬 Image Captioning
 
 - **[INISCOM 2025]** *Dual Attention for Vietnamese Image Captioning* [[Paper](https://link.springer.com/chapter/10.1007/978-3-032-02362-9_14)]
 ---
