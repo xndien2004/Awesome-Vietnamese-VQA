@@ -37,6 +37,8 @@ A curated list of datasets, papers, models, and resources for **Vietnamese Visua
 
 - **[arXiv 2026]** *VMMU: A Vietnamese Multitask Multimodal Understanding and Reasoning Benchmark* [[Paper](https://arxiv.org/pdf/2508.13680v3)]
 
+- **[arXiv 2025]** *VietMEAgent: Culturally-Aware Few-Shot Multimodal Explanation for Vietnamese Visual Question Answering* [[Paper](https://arxiv.org/abs/2511.09058)]
+
 - **[MIWAI 2025]** *ViPPS: Building a Multimodal Dataset for Physics Problem Solving in Vietnamese* [[Paper](https://link.springer.com/chapter/10.1007/978-981-95-4960-3_25)]
 
 - **[Multimedia Syst. 2024]** *ViCLEVR: A Visual Reasoning Dataset and Hybrid Multimodal Fusion Model for Visual Question Answering in Vietnamese* [[Paper](https://link.springer.com/article/10.1007/s00530-024-01394-w)]
