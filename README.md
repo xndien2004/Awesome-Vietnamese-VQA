@@ -41,6 +41,8 @@ A curated list of datasets, papers, models, and resources for **Vietnamese Visua
 
 - **[MIWAI 2025]** *ViPPS: Building a Multimodal Dataset for Physics Problem Solving in Vietnamese* [[Paper](https://link.springer.com/chapter/10.1007/978-981-95-4960-3_25)]
 
+- **[ICISN 2025]** *An Automated Pipeline for Constructing a Vietnamese VQA-NLE Dataset* [[Paper](https://link.springer.com/chapter/10.1007/978-981-95-1746-6_18)]
+
 - **[Multimedia Syst. 2024]** *ViCLEVR: A Visual Reasoning Dataset and Hybrid Multimodal Fusion Model for Visual Question Answering in Vietnamese* [[Paper](https://link.springer.com/article/10.1007/s00530-024-01394-w)]
 
 - **[VLSP 2022]** *EVJVQA Challenge: Multilingual Visual Question Answering* [[Paper](https://arxiv.org/abs/2302.11752)]
@@ -71,8 +73,11 @@ A curated list of datasets, papers, models, and resources for **Vietnamese Visua
 
 ### 🖼️ General VQA (Non-OCR)
 
-- **[ICCVW 2025]** *Describe Anything Model for Visual Question Answering on Text-rich Images
-* [[Paper](https://openaccess.thecvf.com/content/ICCV2025W/VisionDocs/papers/Vu_Describe_Anything_Model_for_Visual_Question_Answering_on_Text-rich_Images_ICCVW_2025_paper.pdf)]
+- **[ICCCI 2025]** *Integrating Local Features Into Vision Transformer Architecture for Vietnamese Visual Question Answering* [[Paper](https://link.springer.com/chapter/10.1007/978-3-032-10202-7_15)]
+
+- **[ICCVW 2025]** *Describe Anything Model for Visual Question Answering on Text-rich Images* [[Paper](https://openaccess.thecvf.com/content/ICCV2025W/VisionDocs/papers/Vu_Describe_Anything_Model_for_Visual_Question_Answering_on_Text-rich_Images_ICCVW_2025_paper.pdf)]
+
+- **[ICCCI 2025]** *Enhancing Visual Question Answering with Semantic-Preserving Image Generation* [[Paper](https://link.springer.com/chapter/10.1007/978-3-032-10202-7_17)]
 
 - **[VLSP 2025]** *LexiSignVQA: A Unified Training-free Multi-stage Approach to Multimodal Legal Question Answering on Traffic Sign Rules* [[Paper](https://aclanthology.org/2025.vlsp-1.52/)]
 
@@ -98,11 +103,17 @@ A curated list of datasets, papers, models, and resources for **Vietnamese Visua
 
 - **[CSoNet 2023]** *Enhancing Visual Question Answering with Generated Image Caption* [[Paper](https://link.springer.com/chapter/10.1007/978-981-97-0669-3_2)]
 
+- **[ICIT 2023]** *SCBM: A Hybrid Model for Vietnamese Visual Question Answering* [[Paper](https://link.springer.com/chapter/10.1007/978-3-031-46573-4_26)]
+
 - **[IEEE MAPR 2023]** *BARTPhoBEiT: Pre-trained Sequence-to-Sequence and Image Transformers Models for Vietnamese Visual Question Answering* [[Paper](https://ieeexplore.ieee.org/document/10288874)]
 
 - **[IEEE MAPR 2023]** *PAT: Parallel Attention Transformer for Visual Question Answering in Vietnamese* [[Paper](https://ieeexplore.ieee.org/document/10288833)]
 
 - **[PSIVT 2022]** *Combining Multi-vision Embedding in Contextual Attention for Vietnamese Visual Question Answering* [[Paper](https://link.springer.com/chapter/10.1007/978-3-031-26431-3_14)]
+
+- **[IJALP 2022]** *Transformer-Based Approaches for Multilingual Visual Question Answering* [[Paper](https://www.worldscientific.com/doi/abs/10.1142/S2717554523500108)]
+
+- **[PACLIC 2022]** *Bi-directional Cross-Attention Network on Vietnamese Visual Question Answering* [[Paper](https://aclanthology.org/2022.paclic-1.92/)]
 
 ### 🖼️💬 Image Captioning
 
